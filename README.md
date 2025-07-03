@@ -1,4 +1,4 @@
-# 🎙️ AI News Anchor – Automated News Video Generator
+## 🎙️ AI News Anchor – Automated News Video Generator
 
 AI News Anchor is a fully autonomous system that fetches real-time news based on a user-given topic, generates human-like anchor scripts, converts them to realistic voiceovers, and produces complete news videos featuring a talking AI avatar with relevant B-roll visuals. This project showcases the power of generative AI in media automation and the future of AI-driven journalism.
 
