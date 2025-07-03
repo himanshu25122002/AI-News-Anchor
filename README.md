@@ -38,15 +38,20 @@ AI News Anchor is a fully autonomous system that fetches real-time news based on
 
 ---
 
-## 🖼️ Demo 
+## 🖼️ Demo Screenshot
 
 <p align="center">
   <img src="assets/Screenshot 2025-07-03 132825.png"/>
 </p>
 
-<video width="700" controls>
-  <source src="assets/final_news_video.mp4" type="video/mp4">
-</video>
+---
+
+## 🎬 Demo Video
+
+📂 The full demo video is available here:  
+[▶️ Watch or Download AI News Anchor Demo](assets/final_news_video.mp4)
+
+_(Click the link to play it in the browser or download it)_
 
 ---
 
