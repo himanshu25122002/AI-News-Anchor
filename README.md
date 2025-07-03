@@ -45,7 +45,7 @@ AI News Anchor is a fully autonomous system that fetches real-time news based on
 </p>
 
 <video width="700" controls>
-  <source src="assets/final_news_vedio.mp4" type="video/mp4">
+  <source src="assets/final_news_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
