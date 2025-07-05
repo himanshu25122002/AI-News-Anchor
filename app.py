@@ -7,8 +7,8 @@ from gtts import gTTS
 import ffmpeg
 
 # API KEYS
-SERPAPI_KEY = "2c12bae0a3cf10429a04bd9ea9b15a962c9284971d92f451d295a4d24b68ba42"
-DID_API_KEY = "aGltYW5zaHViaGFnYXQyNTEyQGdtYWlsLmNvbQ:Zx0KNl3vQZKrJsRKfmtOW"
+SERPAPI_KEY = "Enter key"
+DID_API_KEY = "enter key"
 encoded_auth = base64.b64encode(DID_API_KEY.encode("utf-8")).decode("utf-8")
 AUTH_HEADER = {"Authorization": f"Basic {encoded_auth}"}
 
