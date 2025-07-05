@@ -1,5 +1,5 @@
 import requests
-serpapi_api_key = "2c12bae0a3cf10429a04bd9ea9b15a962c9284971d92f451d295a4d24b68ba42"
+serpapi_api_key = "Enter key"
 
 def fetch_news_from_serpapi(topic, serpapi_api_key):
     url = "https://serpapi.com/search.json"
