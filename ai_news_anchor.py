@@ -2,7 +2,7 @@ import requests
 import subprocess
 
 # ====== CONFIGURATION ======
-SERPAPI_API_KEY = "2c12bae0a3cf10429a04bd9ea9b15a962c9284971d92f451d295a4d24b68ba42"  # 🔑 Replace with your real key
+SERPAPI_API_KEY = "Enter key"  # 🔑 Replace with your real key
 OLLAMA_MODEL_NAME = "mistral"  # You can change this if you're using another model locally
 # ===========================
 
