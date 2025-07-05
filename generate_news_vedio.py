@@ -6,8 +6,8 @@ import time
 import subprocess  # 🆕 Needed for Wav2Lip
 
 # 🔑 Your API Keys
-SERPAPI_KEY = "2c12bae0a3cf10429a04bd9ea9b15a962c9284971d92f451d295a4d24b68ba42"
-DID_API_KEY = "aGltYW5zaHViaGFnYXQyNTEyQGdtYWlsLmNvbQ:Zx0KNl3vQZKrJsRKfmtOW"
+SERPAPI_KEY = "Enter key"
+DID_API_KEY = "Enter key"
 
 # Encode D-ID API key
 encoded_auth = base64.b64encode(DID_API_KEY.encode("utf-8")).decode("utf-8")
